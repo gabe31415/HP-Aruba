@@ -1,3 +1,5 @@
+# Get Current State of device
+
 ```
 show terminal | include Length
 terminal length 0
