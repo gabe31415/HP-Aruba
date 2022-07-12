@@ -8,5 +8,6 @@ show run
 show power inline
 show arp int
 show int status
+show mac address-table
 terminal length 24
 ```
